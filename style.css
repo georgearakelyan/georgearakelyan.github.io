@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+.bodyy {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fcecfc+0,fba6e1+50,fd89d7+51,ff7cd8+100;Pink+Gloss+%232 */
+  background: rgb(252,236,252); /* Old browsers */
+  background: -moz-linear-gradient(left, rgba(252,236,252,1) 0%, rgba(251,166,225,1) 50%, rgba(253,137,215,1) 51%, rgba(255,124,216,1) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, rgba(252,236,252,1) 0%,rgba(251,166,225,1) 50%,rgba(253,137,215,1) 51%,rgba(255,124,216,1) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, rgba(252,236,252,1) 0%,rgba(251,166,225,1) 50%,rgba(253,137,215,1) 51%,rgba(255,124,216,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcecfc', endColorstr='#ff7cd8',GradientType=1 ); /* IE6-9 */}
+
+.one{
+  color:#f30000;
+  font-family: 'Cookie';
+}
+.three{
+  color:#f30000;
+  font-family: 'Cookie';
+}
+.lu{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+.drt {
+  display:block;
+  color: #9121b9;
+  padding: 8px 16px;
+  text-decoration: none;
+  float: left;
+  background-color: #bc6767;
+}
+
+/* Change the link color on hover */
+.drt:hover {
+  background-color: #0001c4;
+  color: #f00000;
+}
+.words{
+  text-decoration: none;
+  color: black;
+  font-size: 40px;
+
+}
+.two{
+  color: #4a2043;
+  font-family: 'Cookie';
+}
+.t{
+  width:500px;
+}
+.s{
+  width:250px;
+}
+.ss{
+  width: 400px;
+}
+.n{
+ width:350px;
+}
+.b{
+  width:400px;
+}
+body{
+  text-align: center;
+}
+.bodyyy{
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f0b7a1+0,752201+5,752201+5,752201+10,752201+28,8c3310+64,bf6e4e+90 */
+  background: #f0b7a1; /* Old browsers */
+  background: -moz-linear-gradient(top, #f0b7a1 0%, #752201 5%, #752201 5%, #752201 10%, #752201 28%, #8c3310 64%, #bf6e4e 90%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #f0b7a1 0%,#752201 5%,#752201 5%,#752201 10%,#752201 28%,#8c3310 64%,#bf6e4e 90%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #f0b7a1 0%,#752201 5%,#752201 5%,#752201 10%,#752201 28%,#8c3310 64%,#bf6e4e 90%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b7a1', endColorstr='#bf6e4e',GradientType=0 ); /* IE6-9 */
+  font-family: 'Great Vibes', cursive;
+}
+.six{
+  list-style-position: inside;
+}
+.four{
+  color:darkorange;
+}
+.five{
+  color:burlywood;
+}
+.seven{
+  color:bisque;
+}
+.eight{
+  color:burlywood;
+}
+.nav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.rty {
+  display:block;
+  color: #8e2e2a;
+  padding: 8px 16px;
+  text-decoration: none;
+  float:left;
+  background-color: #cb9f4a;
+}
+
+/* Change the link color on hover */
+.rty:hover{
+  background-color: #f200fd;
+  color: #080808;
+}
+.nu{
+  width:300px;
+}
+.bth{
+  text-decoration: none;
+}
+.bodi{
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffb76b+0,ff7c00+77,ff7c00+62,ffa73d+74,ff7f04+54;Orange+Gloss */
+  background: rgb(255,183,107); /* Old browsers */
+  background: -moz-linear-gradient(left, rgba(255,183,107,1) 0%, rgba(255,124,0,1) 77%, rgba(255,124,0,1) 62%, rgba(255,167,61,1) 74%, rgba(255,127,4,1) 54%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, rgba(255,183,107,1) 0%,rgba(255,124,0,1) 77%,rgba(255,124,0,1) 62%,rgba(255,167,61,1) 74%,rgba(255,127,4,1) 54%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, rgba(255,183,107,1) 0%,rgba(255,124,0,1) 77%,rgba(255,124,0,1) 62%,rgba(255,167,61,1) 74%,rgba(255,127,4,1) 54%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb76b', endColorstr='#ff7f04',GradientType=1 ); /* IE6-9 */
+  font-family: 'Great Vibes', cursive;
+}
+.nine{
+  color:blueviolet;
+}
+.ten{
+  color:chartreuse;
+}
+.twelve{
+  color:bisque;
+}
+.eleven{
+  list-style-position: inside;
+}
+.thirteen{
+  color:deeppink;
+}
+.navv {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+.grt {
+  display:block;
+  color: #f30000;
+  padding: 8px 16px;
+  text-decoration: none;
+  float: left;
+  background-color: #94ba53;
+}
+
+/* Change the link color on hover */
+.grt:hover{
+  background-color: #ea5e09;
+  color: #cef000;
+}
+.bodii{
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f6e6b4+1,ed9017+70 */
+  background: rgb(246,230,180); /* Old browsers */
+  background: -moz-linear-gradient(left, rgba(246,230,180,1) 1%, rgba(237,144,23,1) 70%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, rgba(246,230,180,1) 1%,rgba(237,144,23,1) 70%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, rgba(246,230,180,1) 1%,rgba(237,144,23,1) 70%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6e6b4', endColorstr='#ed9017',GradientType=1 ); /* IE6-9 */
+  font-family: 'Great Vibes', cursive;
+}
+.fourteen{
+  color: #940707;
+}
+.fifteen{
+  color:#940707;
+}
+.seventeen{
+  color:#940707;
+}
+.sixteen{
+  list-style-position: inside;
+}
+.eighteen{
+  color: #7d1919;
+}
+.navvv {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+.poi {
+  display:block;
+  color: #19efeb;
+  padding: 8px 16px;
+  text-decoration:none;
+  float:left;
+  background-color: rgb(199, 113, 1);
+}
+
+/* Change the link color on hover */
+.poi:hover{
+  background-color: #63ff00;
+  color: #f00000;
+}
+.ri{
+  width:300px;
+}
+.boid{
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+44,6d0019+100;Brown+Red+3D */
+  background: rgb(169,3,41); /* Old browsers */
+  background: -moz-linear-gradient(left, rgba(169,3,41,1) 0%, rgba(143,2,34,1) 44%, rgba(109,0,25,1) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, rgba(169,3,41,1) 0%,rgba(143,2,34,1) 44%,rgba(109,0,25,1) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, rgba(169,3,41,1) 0%,rgba(143,2,34,1) 44%,rgba(109,0,25,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=1 ); /* IE6-9 */
+  font-family: 'Great Vibes', cursive;
+}
+.nineteen{
+  color: #cbd518;
+}
+.twenty{
+  color:#cbd518;
+}
+.twentyone{
+  list-style-position: inside;
+}
+.twentytwo{
+  color: #cbd518;
+}
+.twentythree{
+  color:  #cbd518;
+}
+.navvvv {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+.nvb {
+  display:block;
+  color: #dc1800;
+  padding: 8px 16px;
+  text-decoration: none;
+  float:left;
+  background-color: #b5b021;
+}
+
+/* Change the link color on hover */
+.nvb:hover{
+  background-color: #0001c4;
+  color: #f00000;
+}
+.fr{
+  width:300px;
+}
